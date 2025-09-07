@@ -7,7 +7,7 @@ body{
 	font-family: 'Cinzel', serif;
 }
 .somo{
-	background-color: #fffab7;
+	background-color: #E8E6D5;
 }
 .navbar{
 	display:flex;
@@ -48,7 +48,7 @@ a{
 	color:#555;
 }
 b{
-	color: #FFB319;
+	color: #BD9778;
 }
 p{
 	color:#555;
@@ -103,10 +103,10 @@ min-width: 300px;
 	transition: background 0.5s;
 }
 .btn:hover{
-	background: #FFB319;
+	background: #747474;
 }
 .header{
-	background: #fffec9;
+	background: #E8E6D5;
 }
 .categories{
 	margin: 10px 0px;
@@ -154,7 +154,7 @@ h4{
 	
 }
 .about-us{
-	background: #fffab7;
+	background: #E8E6D5;
 	margin-top: 80px;
 	padding: 30px 0;
 }
@@ -231,7 +231,7 @@ h4{
 /*----------FOOTER----------*/
 
 .footer{
-	background:#E79E4F;
+	background: #E8E6D5;
 	color: black;
 	font-size: 14px;
 	padding: 60px 0 20px;
